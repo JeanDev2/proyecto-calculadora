@@ -1,0 +1,10 @@
+.calculadora {
+    display: grid;
+    grid-template-columns: repeat(4,5rem);
+    grid-template-rows: 10rem repeat(5, 5rem);
+    background-color: #00916E;
+    padding: 1rem;
+    border-radius: 2rem;
+    box-shadow: 15px 10px 0px 5px #00000033;
+}
+

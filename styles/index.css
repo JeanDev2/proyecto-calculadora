@@ -1,0 +1,14 @@
+@import './container.css';
+@import './calculadora.css';
+@import './button.css';
+@import './display.css';
+
+* {
+    font-family: 'Fraunces', serif;
+    color: #fff;
+}
+
+body {
+    margin: 0;
+    background-color: #224870;
+}

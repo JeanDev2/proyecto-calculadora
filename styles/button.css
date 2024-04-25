@@ -1,0 +1,24 @@
+button {
+    cursor:pointer;
+    margin:.5rem;
+    padding: 0;
+    border-radius: 2rem;
+    font-size: 1.5rem;
+    border: none;
+    background-color: #00916E;
+    box-shadow: 5px 5px 10px -3px #00000040, -5px -5px 15px 3px #00FFC11f;
+}
+
+button:active {
+    background-color: #006F54;
+    font-size: 2rem;
+    transition: .3s;
+}
+
+button:focus {
+    outline: none;
+}
+
+.col-2 {
+    grid-column: span 2;
+}
